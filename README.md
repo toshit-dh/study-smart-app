@@ -100,6 +100,27 @@ The Dashboard screen provides an overview of your subjects, tasks, and sessions.
 3. Enter the session details, such as date, start time, and duration.
 4. Click "Save" to schedule the session for the selected subject.
 
+### Images
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 0 0 30%;" >
+    <img src="screenshots/dashboard2.jpg" alt="Dashboard Empty Screen" width="200" height="500"/>
+  </div>
+  <div style="flex: 0 0 30%;">
+    <img src="screenshots/dashboard.jpg" alt="Dashboard Screen" width="200" height="500"/>
+  </div>
+  <div style="flex: 0 0 30%;">
+    <img src="screenshots/task.jpg" alt="Task Screen" width="200" height="500"/>
+  </div>
+  <div style="flex: 0 0 45%;">
+    <img src="screenshots/subject.jpg" alt="Subject Screen" width="200" height="500"/>
+  </div>
+  <div style="flex: 0 0 45%;">
+    <img src="screenshots/session.jpg" alt="Session Screen" width="200" height="500"/>
+  </div>
+</div>
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
